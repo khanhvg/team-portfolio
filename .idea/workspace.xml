@@ -16,7 +16,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django3-personal-portfolio-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django3-todowoo-project-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +61,8 @@
       <updated>1584068978351</updated>
       <workItem from="1584068979816" duration="990000" />
       <workItem from="1584078205424" duration="2340000" />
+      <workItem from="1584271601679" duration="882000" />
+      <workItem from="1584272524860" duration="2755000" />
     </task>
     <servers />
   </component>
@@ -68,13 +70,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1584078269195">
+    <state x="704" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584272700028">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584078269195" />
-    <state x="636" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1584078218197">
+    <state x="704" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584272700028" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1584272765955">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="636" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584078218197" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584272765955" />
+    <state x="636" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1584272536754">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584272536754" />
   </component>
 </project>
