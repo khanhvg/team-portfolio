@@ -1,5 +1,9 @@
-from django.urls import path
+from django.urls import path, include
+from rest_framework.routers import DefaultRouter
 from todo import views
+
+router = DefaultRouter()
+router.register('todoapi', views.UserTodoViewSet)
 urlpatterns = [
 
     # Auth
@@ -15,4 +19,6 @@ urlpatterns = [
     path('todo/<int:todo_pk>', views.viewtodo, name='viewtodo'),
     path('todo/<int:todo_pk>/complete', views.completetodo, name='completetodo'),
     path('todo/<int:todo_pk>/delete', views.deletetodo, name='deletetodo'),
+
+    path('', include(router.urls)),
 ]
